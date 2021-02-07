@@ -1,5 +1,5 @@
 ```
-hugo --theme book
+hugo --theme book --cleanDestinationDir
 cd public
 git add .
 git commit -m "changes"

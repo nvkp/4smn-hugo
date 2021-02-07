@@ -1,6 +1,6 @@
 ---
-title: Otázka 1
+title: Rámec a způsob použití standardů
 weight: 1
 ---
 
-otázka 1
+# Rámec a způsob použití standardů a legislativy v podmínkách organizací, certifikace MIČR
